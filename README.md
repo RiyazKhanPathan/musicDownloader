@@ -1,7 +1,10 @@
 # musicDownloader
 Wynk, Gaana music downloader by using a chrome extension.
 
-prerequisites >=python3.9 configured as environment varaibles.
+Get chrome extension from https://github.com/RiyazKhanPathan/adBlocker
+
+Prerequisites:
+1. >=python3.9 configured as environment varaible
 
 Steps:
 1. Install chrome extension
